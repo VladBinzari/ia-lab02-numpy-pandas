@@ -1,0 +1,17 @@
+# Mediu virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Imagini generate de scripturi
+*.png
+
+# Fisiere sistem
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
